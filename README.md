@@ -17,20 +17,23 @@ The aim of this project is to perform Exploratory Data Analysis (EDA) on a movie
 Note: The original dataset is too large to preview on GitHub. A sample of 100 rows is available in `sample_movie_data.csv` for quick viewing.
 
 # Key Columns in the Dataset:
-Column Name     Description                                 
-Genre           Primary genre of the movie                  
-Duration        Duration of the movie (in minutes)          
-Budget          Budget in USD                               
-Gross           Gross earnings in USD                       
-Votes           Number of votes received                    
-Year            Year of release                             
-Rating          IMDb rating of the movie                    
-Metascore       Metacritic score of the movie               
-Director        Director’s name                             
-Cast            Names of main cast members                  
-Certificate     Age rating certificate                      
-Country         Country of origin                           
-Language        Language of the movie                      
+Column Name   :  Description                                 
+Genre         :  Primary genre of the movie                  
+Duration      :  Duration of the movie (in minutes)          
+Budget        :  Budget in USD                               
+Gross         :  Gross earnings in USD                       
+Votes         :  Number of votes received                    
+Year          :  Year of release                             
+Rating        :  IMDb rating of the movie                    
+Metascore     :  Metacritic score of the movie               
+Director      :  Director’s name                             
+Cast          :  Names of main cast members                  
+Certificate   :  Age rating certificate                      
+Country       :  Country of origin                           
+Country       :  Country of origin                           
+Country       :  Country of origin                           
+Country       :  Country of origin                           
+Language      :  Language of the movie                      
 
 # Tools and Libraries Used
 - *Python*
