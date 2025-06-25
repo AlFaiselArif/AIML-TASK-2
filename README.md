@@ -14,7 +14,7 @@ The aim of this project is to perform Exploratory Data Analysis (EDA) on a movie
 # Dataset Description
 - **Filename**:'C:/Users/alfai/Downloads/movie_genre_classification_final.csv'
 - **Description**: This dataset contains various attributes of movies that could be used for genre classification and analysis.
-Note: The original dataset is too large to preview on GitHub. A sample of 100 rows is available in `sample_movie_data.csv` for quick viewing.
+-  Note: The original dataset is too large to preview on GitHub. A sample of 100 rows is available in `sample_movie_data.csv` for quick viewing.
 
 # Key Columns in the Dataset:
 Column Name   :  Description                                 
