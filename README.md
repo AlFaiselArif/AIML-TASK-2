@@ -29,10 +29,7 @@ Metascore     :  Metacritic score of the movie
 Director      :  Director’s name                             
 Cast          :  Names of main cast members                  
 Certificate   :  Age rating certificate                      
-Country       :  Country of origin                           
-Country       :  Country of origin                           
-Country       :  Country of origin                           
-Country       :  Country of origin                           
+Country       :  Country of origin                                                    
 Language      :  Language of the movie                      
 
 # Tools and Libraries Used
